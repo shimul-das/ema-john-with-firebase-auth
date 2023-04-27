@@ -1,0 +1,17 @@
+.reviewContainer{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.btn-procced{
+    width:90%;
+    height: 56px;
+    margin: 10px auto;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 21px;
+}

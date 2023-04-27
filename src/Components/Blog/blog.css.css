@@ -1,0 +1,69 @@
+.product {
+    width: 300px;
+    height: 510px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    height: 286px;
+    width: 286px;
+    margin: 7px;
+    border-radius: 8px;
+}
+
+.product-name {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    margin: 7px;
+}
+
+.product-price {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    margin: 7px;
+}
+
+.product-manufacturer {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.004em;
+    margin: 7px;
+    padding-top: 30px;
+
+}
+
+.product-rattig {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.004em;
+    margin: 7px;
+
+}
+
+.btn-cart{
+    background-color: #FFE0B3;
+    color: black;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.btn-cart:hover{
+    background-color: orange;
+
+}
